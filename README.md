@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am a CG programmer who's learning physics-based techniques (or more specifically position-based methods). The belows are some projects I have made myself. Hope you can find something useful here :+1: 
+
+![](https://i.imgur.com/SWVqaGx.png)
+↑will be published soon...
 
 <!--
 **FZzzz/FZzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
