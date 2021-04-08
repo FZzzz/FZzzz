@@ -4,9 +4,6 @@ I am a CG programmer who's learning physics-based techniques (or more specifical
 ![](https://i.imgur.com/SWVqaGx.png)
 ↑ Bilateral phase change of snow (this is the rendered reuslt of my graduation thesis)
 
-### I'm currently learning control theory for bipedal creature
-If you have any good learning resources, please tell me! 
-
 <!--
 **FZzzz/FZzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
